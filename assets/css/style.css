@@ -171,7 +171,7 @@ position:absolute;
     background-repeat: no-repeat;
  height:350px;
 padding:70px;
- 
+ color:white;
 }
 
 .home-text{
@@ -289,6 +289,7 @@ text-align:center;
        background-repeat: no-repeat;
    padding:70px;
     object-fit:center;
+  color:white;
    }
 
 .about-text-card{
